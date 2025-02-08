@@ -1,5 +1,5 @@
 <p align='center'> <img src="img/leetcode_status.png" alt="LeetCode profiles">
-<p align='center'> Привет! 👋 Я Junior Java-разработчик. </p> 
+<p align='center'> Привет! 👋 Я Java-разработчик из Санкт-Петербурга. </p> 
 
 <p align='center'>  
   Мой телеграм:
